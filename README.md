@@ -49,9 +49,9 @@ Follow these steps to upload your project to a new GitHub repository:
 ## 🤝 Contributors
 
 - **Sambit Bhoumik** (Admin/Backend)
-- **Aditya Paul** (UI/UX)
+- **Aditya Paul** (AI Flows)
 - **Agnik Ghosh** (Database)
-- **Arunava Saha** (AI Flows)
+- **Arunava Saha** (UI/UX)
 
 ---
 *Developed as part of the ShieldAI Cyberbullying Prevention Project.*
